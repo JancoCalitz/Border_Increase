@@ -1,0 +1,8 @@
+name: BorderIncreasePlugin
+version: 1.0
+main: com.violetsmc.borderincrease.BorderIncreasePlugin
+api-version: 1.20
+commands:
+  increaseborder:
+    description: Increases the world border by 50 blocks
+    usage: /increaseborder
